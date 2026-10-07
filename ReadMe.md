@@ -1,6 +1,6 @@
 # DermaAI – Skin Condition Image Classifier
 
-DermaAI is a CNN-based image classification project designed to classify 8 skin-condition categories from facial images.
+DermaAI is a CNN-based image classification project designed to classify 7 skin-condition categories from facial images.
 
 ## Technologies
 
